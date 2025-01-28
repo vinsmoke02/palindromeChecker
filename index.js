@@ -1,4 +1,4 @@
-const inp = document.getElementById("ip");
+const inp = document.getElementById("ip").value.toLowerCase();
 const resultDiv = document.getElementById("result");
 
 
